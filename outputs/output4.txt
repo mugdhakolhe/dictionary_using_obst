@@ -1,0 +1,142 @@
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 1
+The cost of optimal BST is: 6
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 5
+The vector elements are :
+dear-1
+hello-2
+mr-1
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 2
+
+          mr
+
+hello
+
+          dear
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 4
+Enter a word: mop
+Enter its meaning: ddsds
+Enter its frequency: 56
+The vector elements are :
+dear-1
+hello-2
+mop-56
+mr-1
+The cost of optimal BST is: 65
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 1
+The cost of optimal BST is: 65
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 2
+
+          mr
+
+mop
+
+          hello
+
+                    dear
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: mr
+
+mr found at depth 2
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: djdd
+djdd not found
+
+
+====================================================================
+

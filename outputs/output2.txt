@@ -1,0 +1,94 @@
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 1
+The cost of optimal BST is: 20
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 2
+
+          o
+
+jk
+
+                              ghi
+
+                    djd
+
+          d
+
+                    bet
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: d
+
+d found at depth 2
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: gfdfd
+gfdfd not found
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 5
+The vector elements are :
+bet-1
+d-1
+djd-1
+ghi-1
+jk-6
+o-1
+
+
+====================================================================
+

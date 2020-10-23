@@ -1,0 +1,1131 @@
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 1
+The cost of optimal BST is: 1564
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 2
+
+                                                  year
+
+                                        with
+
+                                                  which
+
+                              when
+
+                                                  western
+
+                                        were
+
+                    was
+
+                                                  vnit
+
+                                        visvesvaraya
+
+                                                            unknown
+
+                                                  under
+
+                                                            traced
+
+                              to
+
+                                                  throughout
+
+                                        through
+
+          the
+
+                                                            that
+
+                                                  test
+
+                                        technology
+
+                                                                      technical
+
+                                                            system
+
+                                                  subsequently
+
+                                                            status
+
+                              statesman
+
+                                                            state
+
+                                                  started
+
+                                                                      sponsored
+
+                                                            sir
+
+                                                                      since
+
+                                        second
+
+                                                                      scheme
+
+                                                            sadar
+
+                                                  resolved
+
+                                                            research
+
+                    regional
+
+                                                            region
+
+                                                  quality
+
+                                                            public
+
+                                        projects
+
+                                                            prime
+
+                                                  prestigious
+
+                                                            present
+
+                              premises
+
+                                                            pradesh
+
+                                                  polytechnic
+
+                                        planner
+
+                                                                      plan
+
+                                                            parliament
+
+                                                  other
+
+                                                            office
+
+of
+
+                                                                      october
+
+                                                            objective
+
+                                                                      number
+
+                                                  national
+
+                                                                      named
+
+                                                            name
+
+                                        nagpur
+
+                                                                                mokshagundam
+
+                                                                      mimic
+
+                                                                                meeting
+
+                                                            masters
+
+                                                                                many
+
+                                                                      mains
+
+                                                  maharashtra
+
+                                                                                madhya
+
+                                                                      m
+
+                                                                                location
+
+                                                            level
+
+                                                                      later
+
+                              june
+
+                                                                                july
+
+                                                                      joint
+
+                                                            it
+
+                                                  is
+
+                                                                                integration
+
+                                                                      institution
+
+                                                            institutes
+
+                                        institute
+
+                                                            industrial
+
+                                                  india
+
+                                                            independent
+
+                    in
+
+                                                                      importance
+
+                                                            impart
+
+                                                                      iits
+
+                                                  house
+
+                                                            honor
+
+                                        history
+
+                                                            held
+
+                                                  graduate
+
+                              government
+
+                                                                      governing
+
+                                                            funded
+
+                                                  functioning
+
+                                                                      from
+
+                                                            foster
+
+                                                                      formerly
+
+                                        for
+
+                                                                      five
+
+                                                            examination
+
+                                                                      establishing
+
+                                                  established
+
+                                                                      entry
+
+                                                            entrance
+
+          engineering
+
+                                                            engineer
+
+                                                                      eminent
+
+                                                  education
+
+                                                                      doctoral
+
+                                                            department
+
+                                                                      degrees
+
+                                        country
+
+                                                                      contemplated
+
+                                                            conferred
+
+                                                  colleges
+
+                              college
+
+                                                  centrally
+
+                                        central
+
+                                                            can
+
+                                                  camp
+
+                    by
+
+                                                                      board
+
+                                                            benchmarks
+
+                                                                      belongs
+
+                                                  be
+
+                                                                      back
+
+                                                            bachelors
+
+                                                                      awards
+
+                                        at
+
+                                                                      as
+
+                                                            area
+
+                                                  architecture
+
+                                                            aptitude
+
+                              and
+
+                                                  an
+
+                                                                      amalgamating
+
+                                                            after
+
+                                        act
+
+                                                                                acres
+
+                                                                      acquired
+
+                                                            accordance
+
+                                                                      about
+
+                                                  a
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 5
+The vector elements are :
+a-3
+about-1
+accordance-1
+acquired-1
+acres-1
+act-2
+after-1
+amalgamating-1
+an-3
+and-12
+aptitude-1
+architecture-2
+area-1
+as-1
+at-3
+awards-1
+bachelors-1
+back-1
+be-1
+belongs-1
+benchmarks-1
+board-1
+by-6
+camp-1
+can-1
+central-2
+centrally-1
+college-7
+colleges-3
+conferred-1
+contemplated-1
+country-2
+degrees-1
+department-1
+doctoral-1
+education-1
+eminent-1
+engineer-2
+engineering-9
+entrance-1
+entry-1
+established-5
+establishing-1
+examination-1
+five-1
+for-3
+formerly-1
+foster-1
+from-1
+functioning-2
+funded-1
+governing-1
+government-7
+graduate-1
+held-1
+history-2
+honor-1
+house-1
+iits-1
+impart-1
+importance-1
+in-16
+independent-1
+india-5
+industrial-1
+institute-5
+institutes-2
+institution-1
+integration-1
+is-3
+it-3
+joint-1
+july-1
+june-2
+later-1
+level-1
+location-1
+m-1
+madhya-1
+maharashtra-2
+mains-1
+many-1
+masters-1
+meeting-1
+mimic-1
+mokshagundam-1
+nagpur-5
+name-2
+named-1
+national-4
+number-1
+objective-1
+october-1
+of-19
+office-1
+other-1
+parliament-1
+plan-1
+planner-2
+polytechnic-1
+pradesh-1
+premises-1
+present-1
+prestigious-1
+prime-1
+projects-1
+public-1
+quality-1
+region-1
+regional-6
+research-1
+resolved-1
+sadar-1
+scheme-1
+second-1
+since-1
+sir-1
+sponsored-1
+started-2
+state-2
+statesman-2
+status-1
+subsequently-1
+system-1
+technical-1
+technology-3
+test-1
+that-1
+the-30
+through-1
+throughout-1
+to-7
+traced-1
+under-2
+unknown-1
+visvesvaraya-5
+vnit-1
+was-8
+were-2
+western-1
+when-1
+which-1
+with-1
+year-2
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: about
+
+about found at depth 8
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 3
+Enter Word to search: fdd
+fdd not found
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 4
+Enter a word: mop
+Enter its meaning: dddf
+Enter its frequency: 999
+The vector elements are :
+a-3
+about-1
+accordance-1
+acquired-1
+acres-1
+act-2
+after-1
+amalgamating-1
+an-3
+and-12
+aptitude-1
+architecture-2
+area-1
+as-1
+at-3
+awards-1
+bachelors-1
+back-1
+be-1
+belongs-1
+benchmarks-1
+board-1
+by-6
+camp-1
+can-1
+central-2
+centrally-1
+college-7
+colleges-3
+conferred-1
+contemplated-1
+country-2
+degrees-1
+department-1
+doctoral-1
+education-1
+eminent-1
+engineer-2
+engineering-9
+entrance-1
+entry-1
+established-5
+establishing-1
+examination-1
+five-1
+for-3
+formerly-1
+foster-1
+from-1
+functioning-2
+funded-1
+governing-1
+government-7
+graduate-1
+held-1
+history-2
+honor-1
+house-1
+iits-1
+impart-1
+importance-1
+in-16
+independent-1
+india-5
+industrial-1
+institute-5
+institutes-2
+institution-1
+integration-1
+is-3
+it-3
+joint-1
+july-1
+june-2
+later-1
+level-1
+location-1
+m-1
+madhya-1
+maharashtra-2
+mains-1
+many-1
+masters-1
+meeting-1
+mimic-1
+mokshagundam-1
+mop-999
+nagpur-5
+name-2
+named-1
+national-4
+number-1
+objective-1
+october-1
+of-19
+office-1
+other-1
+parliament-1
+plan-1
+planner-2
+polytechnic-1
+pradesh-1
+premises-1
+present-1
+prestigious-1
+prime-1
+projects-1
+public-1
+quality-1
+region-1
+regional-6
+research-1
+resolved-1
+sadar-1
+scheme-1
+second-1
+since-1
+sir-1
+sponsored-1
+started-2
+state-2
+statesman-2
+status-1
+subsequently-1
+system-1
+technical-1
+technology-3
+test-1
+that-1
+the-30
+through-1
+throughout-1
+to-7
+traced-1
+under-2
+unknown-1
+visvesvaraya-5
+vnit-1
+was-8
+were-2
+western-1
+when-1
+which-1
+with-1
+year-2
+The cost of optimal BST is: 2614
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 2
+
+                                                  year
+
+                                        with
+
+                                                  which
+
+                              when
+
+                                                  western
+
+                                        were
+
+                    was
+
+                                                  vnit
+
+                                        visvesvaraya
+
+                                                            unknown
+
+                                                  under
+
+                                                            traced
+
+                              to
+
+                                                  throughout
+
+                                        through
+
+          the
+
+                                                            that
+
+                                                  test
+
+                                        technology
+
+                                                                      technical
+
+                                                            system
+
+                                                  subsequently
+
+                                                            status
+
+                              statesman
+
+                                                            state
+
+                                                  started
+
+                                                                      sponsored
+
+                                                            sir
+
+                                                                      since
+
+                                        second
+
+                                                                      scheme
+
+                                                            sadar
+
+                                                  resolved
+
+                                                            research
+
+                    regional
+
+                                                            region
+
+                                                  quality
+
+                                                            public
+
+                                        projects
+
+                                                            prime
+
+                                                  prestigious
+
+                                                            present
+
+                              premises
+
+                                                            pradesh
+
+                                                  polytechnic
+
+                                        planner
+
+                                                                      plan
+
+                                                            parliament
+
+                                                  other
+
+                                                            office
+
+of
+
+                                                                      october
+
+                                                            objective
+
+                                                                      number
+
+                                                  national
+
+                                                                      named
+
+                                                            name
+
+                                        nagpur
+
+                                                                                mokshagundam
+
+                                                                      mimic
+
+                                                                                meeting
+
+                                                            masters
+
+                                                                                many
+
+                                                                      mains
+
+                                                  maharashtra
+
+                                                                                madhya
+
+                                                                      m
+
+                                                                                location
+
+                                                            level
+
+                                                                      later
+
+                              june
+
+                                                                                july
+
+                                                                      joint
+
+                                                            it
+
+                                                  is
+
+                                                                                integration
+
+                                                                      institution
+
+                                                            institutes
+
+                                        institute
+
+                                                            industrial
+
+                                                  india
+
+                                                            independent
+
+                    in
+
+                                                                      importance
+
+                                                            impart
+
+                                                                      iits
+
+                                                  house
+
+                                                            honor
+
+                                        history
+
+                                                            held
+
+                                                  graduate
+
+                              government
+
+                                                                      governing
+
+                                                            funded
+
+                                                  functioning
+
+                                                                      from
+
+                                                            foster
+
+                                                                      formerly
+
+                                        for
+
+                                                                      five
+
+                                                            examination
+
+                                                                      establishing
+
+                                                  established
+
+                                                                      entry
+
+                                                            entrance
+
+          engineering
+
+                                                            engineer
+
+                                                                      eminent
+
+                                                  education
+
+                                                                      doctoral
+
+                                                            department
+
+                                                                      degrees
+
+                                        country
+
+                                                                      contemplated
+
+                                                            conferred
+
+                                                  colleges
+
+                              college
+
+                                                  centrally
+
+                                        central
+
+                                                            can
+
+                                                  camp
+
+                    by
+
+                                                                      board
+
+                                                            benchmarks
+
+                                                                      belongs
+
+                                                  be
+
+                                                                      back
+
+                                                            bachelors
+
+                                                                      awards
+
+                                        at
+
+                                                                      as
+
+                                                            area
+
+                                                  architecture
+
+                                                            aptitude
+
+                              and
+
+                                                  an
+
+                                                                      amalgamating
+
+                                                            after
+
+                                        act
+
+                                                                                acres
+
+                                                                      acquired
+
+                                                            accordance
+
+                                                                      about
+
+                                                  a
+
+
+====================================================================
+
+1.Construct tree
+2.Display tree
+3.Search Word
+4.Insert word
+5.Print word and freq
+6.Exit
+
+
+ Enter no: 5
+The vector elements are :
+a-3
+about-1
+accordance-1
+acquired-1
+acres-1
+act-2
+after-1
+amalgamating-1
+an-3
+and-12
+aptitude-1
+architecture-2
+area-1
+as-1
+at-3
+awards-1
+bachelors-1
+back-1
+be-1
+belongs-1
+benchmarks-1
+board-1
+by-6
+camp-1
+can-1
+central-2
+centrally-1
+college-7
+colleges-3
+conferred-1
+contemplated-1
+country-2
+degrees-1
+department-1
+doctoral-1
+education-1
+eminent-1
+engineer-2
+engineering-9
+entrance-1
+entry-1
+established-5
+establishing-1
+examination-1
+five-1
+for-3
+formerly-1
+foster-1
+from-1
+functioning-2
+funded-1
+governing-1
+government-7
+graduate-1
+held-1
+history-2
+honor-1
+house-1
+iits-1
+impart-1
+importance-1
+in-16
+independent-1
+india-5
+industrial-1
+institute-5
+institutes-2
+institution-1
+integration-1
+is-3
+it-3
+joint-1
+july-1
+june-2
+later-1
+level-1
+location-1
+m-1
+madhya-1
+maharashtra-2
+mains-1
+many-1
+masters-1
+meeting-1
+mimic-1
+mokshagundam-1
+mop-999
+nagpur-5
+name-2
+named-1
+national-4
+number-1
+objective-1
+october-1
+of-19
+office-1
+other-1
+parliament-1
+plan-1
+planner-2
+polytechnic-1
+pradesh-1
+premises-1
+present-1
+prestigious-1
+prime-1
+projects-1
+public-1
+quality-1
+region-1
+regional-6
+research-1
+resolved-1
+sadar-1
+scheme-1
+second-1
+since-1
+sir-1
+sponsored-1
+started-2
+state-2
+statesman-2
+status-1
+subsequently-1
+system-1
+technical-1
+technology-3
+test-1
+that-1
+the-30
+through-1
+throughout-1
+to-7
+traced-1
+under-2
+unknown-1
+visvesvaraya-5
+vnit-1
+was-8
+were-2
+western-1
+when-1
+which-1
+with-1
+year-2
+
+
+====================================================================
+
